@@ -1,7 +1,7 @@
 ><a href="https://vlb-top-streamers-games.netlify.app" target="_blank">See this code running on your web</a></br>
 ><a href="https://github.com/stars/VictorlBueno/lists/front-end" target="_blank">See more design codes</a>
 
-# Top 10 Games and Streamers ✨
+# Top 10 Games and Streamers 🎮
 Page developed for gamers with ranking of the most popular games and streamers on the Twitch platform
 
 # Languages 👨‍💻
